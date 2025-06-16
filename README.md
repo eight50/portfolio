@@ -1,6 +1,6 @@
-# __My Portfolio__  
+## __My Portfolio__ 
 
-# [flutter_memo_widget](https://github.com/eight50/flutter_memo_widget/tree/main)  
+> # [flutter_memo_widget](https://github.com/eight50/flutter_memo_widget/tree/main)  
 ## Overview  
 Androidのホームスクリーン上にメモを作成できる  
 ウィジェットごとに異なる内容を記述できる  
@@ -18,8 +18,9 @@ Androidのホームスクリーン上にメモを作成できる
 - ネイティブ側から、FlutterEngineを用いてテキスト編集画面を新規作成している  
 - appWidgetIdはdartVMの引数として渡している  
 
+------
 
-# [SeamlessTranslation](https://github.com/eight50/SeamlessTranslation)(Ongoing)
+> # [SeamlessTranslation](https://github.com/eight50/SeamlessTranslation)(Ongoing)
 ## Overview  
 ウィジェット上で完結する音声翻訳アプリ  
 ウィジェットから録音を開始し、翻訳結果を表示する  
