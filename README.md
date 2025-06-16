@@ -1,5 +1,5 @@
-# portfolio
-
+# __My Portfolio__  
+<br/>
 # [flutter_memo_widget](https://github.com/eight50/flutter_memo_widget/tree/main)  
 ## Overview  
 Androidのホームスクリーン上にメモを作成できる  
@@ -11,12 +11,12 @@ Androidのホームスクリーン上にメモを作成できる
 ## Technologies Used
 言語：Flutter, Kotlin  
 アーキテクチャ：MVVM
-・dartVM  
-・SharedPreferences  
+- dartVM  
+- SharedPreferences  
 
 ## Features  
-・ネイティブ側から、FlutterEngineを用いてテキスト編集画面を新規作成している。  
-・appWidgetIdはdartVMの引数として渡している。 
+- ネイティブ側から、FlutterEngineを用いてテキスト編集画面を新規作成している  
+- appWidgetIdはdartVMの引数として渡している  
 
 
 # [SeamlessTranslation](https://github.com/eight50/SeamlessTranslation)(Ongoing)
