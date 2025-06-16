@@ -36,7 +36,7 @@ VoiceToTextはVosk、翻訳はDeepLAPIで行う
 ・Jetpack Glance  
 ・Jetpack Compose  
 ・Media Recorder  
-・Retrofit 
+・Retrofit  
 ・Vosk  
 
 ## Features  
