@@ -41,6 +41,7 @@ VoiceToTextはVosk、翻訳はDeepLAPIで行う
 
 ## Features  
 ・ForegroundServiceを使用して、自由に録音の開始・停止が行える  
+・録音機能以外は作成途中  
 
 ## Class Diagram  
 ![Image](https://github.com/user-attachments/assets/824f8abe-9bbf-4bec-84a9-fee99f0ea66f)  
